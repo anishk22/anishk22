@@ -1,5 +1,11 @@
 ### Hi there, I'm Anish 👋
 
+- 📫 Reach me at: anishvk@umich.edu
+
+<br />
+
+![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishk22&count_private=true&show_icons=true&theme=onedark)
+
 <!--
 **anishk22/anishk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishk22&count_private=true&show_icons=true&theme=onedark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishk22)](https://github.com/anishk22/github-readme-stats)

@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishk22&count_private=true&show_icons=true&theme=cobalt)
+![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishk22&count_private=true&show_icons=true&theme=onedark)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishk22)](https://github.com/anishk22/github-readme-stats)

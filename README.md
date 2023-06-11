@@ -4,7 +4,7 @@
 
 <br />
 
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishk22&count_private=true&show_icons=true&theme=dracula)
+<!-- ![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishk22&count_private=true&show_icons=true&theme=dracula) -->
 
 <!--
 **anishk22/anishk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
